@@ -1,4 +1,4 @@
-# OpenMM-PSF
+# OpenMM-Amber_Charmm
 Created by quantaosun@gmail.com, based on the official openmm documentation in https://openmm.org/documentation
 #This notebook can be divided to three parts.
 1. Openmm installation and a test simulation
