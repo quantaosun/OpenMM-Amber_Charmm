@@ -8,4 +8,4 @@ Note: The method of how to generate Amber or VMD/Charmm input is not incluede he
 
 Created by quantaosun@gmail.com, based on the official openmm documentation in https://openmm.org/documentation 
 
-## Note, the next 3htb, example, i.e., the first OpenMM simulation is just fro testing purpose, to verify our simulation software is working. For a more proper simulation you should use the following two, i.e., the Amber input version or the VMD/Charmm input verion.
+## Note, the 3htb, example, i.e., the first OpenMM simulation is just for testing purpose, to verify our simulation software (openmm) is working. For a more proper simulation you should use the following two, i.e., the Amber input version or the VMD/Charmm input verion.
